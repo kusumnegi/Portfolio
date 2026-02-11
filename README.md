@@ -1,8 +1,8 @@
 ### About me & skills 
-![About Me and skills](portfolio_images/about_and_skills.png)
+![About Me and skills](portfolio_images/about&skills.png)
 
 ### Projects
-![Projects](portfolio_images/project.png)
+![Projects](portfolio_images/projects.png)
 
 ### Contact Me
 ![Contact Me](portfolio_images/contact.png)
