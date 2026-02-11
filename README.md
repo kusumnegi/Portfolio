@@ -1,2 +1,8 @@
-# Portfolio
-A personal portfolio website showcasing my skills, projects, and contact information. Built with a clean and responsive design to highlight my work and skills.
+### About me & skills 
+![About Me and skills](portfolio_images/about_and_skills.png)
+
+### Projects
+![Projects](portfolio_images/project.png)
+
+### Contact Me
+![Contact Me](portfolio_images/contact.png)
